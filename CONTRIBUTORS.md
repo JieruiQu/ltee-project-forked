@@ -32,6 +32,7 @@ Source: https://contributors.md/
 ## List of contributors
 
 - Aziz Khan
+- Haroun Adebakin
+- Cristina Correa Segade
 - Jierui Qu
-
 
